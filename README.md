@@ -1,0 +1,2 @@
+# SmartHub
+Smarthub multimediaal CMS
